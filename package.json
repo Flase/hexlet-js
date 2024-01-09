@@ -1,0 +1,21 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Hexlet lesson",
+  "keywords": ["lesson"],
+  "homepage": "https://dradozhitskiy.ru/",
+  "bugs": {
+    "url": "https://github.com/Flase/hexlet-js/issues",
+    "email": "d.rado1991@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "funding": {
+    "type": "individual",
+    "url": "https://dradozhitskiy.ru/donate"
+  }
+}
