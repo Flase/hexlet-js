@@ -11,7 +11,7 @@
     "url": "https://github.com/Flase/hexlet-js/issues",
     "email": "d.rado1991@gmail.com"
   },
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
