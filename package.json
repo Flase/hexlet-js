@@ -2,7 +2,10 @@
   "name": "hexlet",
   "version": "1.0.0",
   "description": "Hexlet lesson",
-  "keywords": ["lesson"],
+  "type": "module",
+  "keywords": [
+    "lesson"
+  ],
   "homepage": "https://dradozhitskiy.ru/",
   "bugs": {
     "url": "https://github.com/Flase/hexlet-js/issues",
@@ -17,5 +20,8 @@
   "funding": {
     "type": "individual",
     "url": "https://dradozhitskiy.ru/donate"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
